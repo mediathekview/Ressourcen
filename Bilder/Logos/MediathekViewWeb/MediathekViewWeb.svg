@@ -29,12 +29,12 @@
      id="namedview83"
      showgrid="false"
      inkscape:zoom="0.72615383"
-     inkscape:cx="227.6402"
+     inkscape:cx="284.71014"
      inkscape:cy="226.48491"
      inkscape:window-x="57"
      inkscape:window-y="34"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg3570"
+     inkscape:current-layer="g4220"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -622,10 +622,10 @@
        id="text6709"
        y="671.94922"
        x="80.533836"
-       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:76.86286163px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold Oblique';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#d2e2f0;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.2810477;stroke-opacity:1"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:76.86286163px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold Oblique';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f0f6fa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.2810477;stroke-opacity:1;"
        xml:space="preserve"
        sodipodi:linespacing="125%"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:256.20956421px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';fill:#d2e2f0;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.2810477;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:256.20956421px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';fill:#f0f6fa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.2810477;stroke-opacity:1;"
          y="671.94922"
          x="80.533836"
          id="tspan6711">MV</tspan></text>
@@ -637,7 +637,7 @@
     <text
        sodipodi:linespacing="125%"
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:76.86286163px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold Oblique';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#d2e2f0;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.2810477;stroke-opacity:1"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:76.86286163px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold Oblique';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f0f6fa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.2810477;stroke-opacity:1;"
        x="67.378838"
        y="707.87982"
        id="text4222"
@@ -645,6 +645,6 @@
          id="tspan4224"
          x="67.378838"
          y="707.87982"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';fill:#d2e2f0;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.2810477;stroke-opacity:1">WEB</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';fill:#f0f6fa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.2810477;stroke-opacity:1;">WEB</tspan></text>
   </g>
 </svg>
