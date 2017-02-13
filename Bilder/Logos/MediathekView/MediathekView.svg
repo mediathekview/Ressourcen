@@ -14,7 +14,7 @@
    height="650"
    width="650"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="MediathekView2.svg">
+   sodipodi:docname="MediathekView.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -29,7 +29,7 @@
      id="namedview83"
      showgrid="false"
      inkscape:zoom="0.5134683"
-     inkscape:cx="-205.93731"
+     inkscape:cx="-694.76982"
      inkscape:cy="312.32077"
      inkscape:window-x="57"
      inkscape:window-y="34"
@@ -183,17 +183,23 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <cc:license
-           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
         <dc:title></dc:title>
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
       </cc:License>
     </rdf:RDF>
   </metadata>
