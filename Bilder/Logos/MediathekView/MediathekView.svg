@@ -11,8 +11,8 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    id="svg3570"
-   height="650"
-   width="650"
+   height="660"
+   width="660"
    inkscape:version="0.91 r13725"
    sodipodi:docname="MediathekView.svg">
   <sodipodi:namedview
@@ -24,13 +24,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1267"
-     inkscape:window-height="702"
+     inkscape:window-width="1599"
+     inkscape:window-height="955"
      id="namedview83"
      showgrid="false"
-     inkscape:zoom="0.5134683"
-     inkscape:cx="-694.76982"
-     inkscape:cy="312.32077"
+     inkscape:zoom="1.0269366"
+     inkscape:cx="401.73403"
+     inkscape:cy="347.22691"
      inkscape:window-x="57"
      inkscape:window-y="34"
      inkscape:window-maximized="0"
@@ -204,12 +204,12 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-45.900094,-88.240144)"
+     transform="translate(-45.900094,-78.240144)"
      style="display:inline"
      id="layer4" />
   <g
      style="display:inline"
-     transform="translate(-746.69754,-54.345245)"
+     transform="translate(-742.67131,-55.574179)"
      id="layer1">
     <path
        id="path5888"
@@ -219,15 +219,18 @@
     <path
        id="path5767"
        style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 1278.4644,253.31741 -422.38249,40.1313 -15.355,6.4062 -2.6625,-4.6925 -17.8912,1.6988 c -5.4288,0.515 -9.4,5.4037 -8.8763,10.9212 l 36.6625,385.8613 c 0.5238,5.5175 5.345,9.5687 10.7738,9.0537 l 458.29249,-43.5462 c 5.4287,-0.515 9.4012,-5.4013 8.8787,-10.9188 l -36.6637,-385.8625 c -0.5238,-5.5175 -5.3475,-9.5675 -10.7763,-9.0525" />
+       d="m 1278.4644,253.31741 -422.38249,40.1313 -15.355,6.4062 -2.6625,-4.6925 -17.8912,1.6988 c -5.4288,0.515 -9.4,5.4037 -8.8763,10.9212 l 36.6625,385.8613 c 0.5238,5.5175 5.345,9.5687 10.7738,9.0537 l 458.29249,-43.5462 c 5.4287,-0.515 9.4012,-5.4013 8.8787,-10.9188 l -36.6637,-385.8625 c -0.5238,-5.5175 -5.3475,-9.5675 -10.7763,-9.0525"
+       inkscape:connector-curvature="0" />
     <path
        id="path5769"
        style="fill:#5a5758;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 863.94691,296.08871 392.61129,-162.2275 3.75,-11.25 -446.83249,119.045 32.4537,56.1437 2.665,4.7125 15.3525,-6.4237 z" />
+       d="m 863.94691,296.08871 392.61129,-162.2275 3.75,-11.25 -446.83249,119.045 32.4537,56.1437 2.665,4.7125 15.3525,-6.4237 z"
+       inkscape:connector-curvature="0" />
     <path
        id="path5777"
        style="fill:url(#linearGradient5857);stroke:none"
-       d="m 855.92321,291.77499 400.17869,-167.42375 -45.43,-56.647501 -405.22119,169.640001 32.455,56.1425 2.6637,4.7125 15.3538,-6.42375 z" />
+       d="m 855.92321,291.77499 400.17869,-167.42375 -45.43,-56.647501 -405.22119,169.640001 32.455,56.1425 2.6637,4.7125 15.3538,-6.42375 z"
+       inkscape:connector-curvature="0" />
     <path
        id="path5795"
        style="fill:url(#linearGradient5869);stroke:none"
@@ -262,24 +265,24 @@
        inkscape:connector-curvature="0" />
   </g>
   <g
-     transform="translate(-45.900094,-88.240144)"
+     transform="translate(-45.900094,-78.240144)"
      style="display:inline"
      id="layer5" />
   <g
-     transform="matrix(0.99997866,0.00653371,-0.00653371,0.99997866,-41.526099,-81.345411)"
+     transform="matrix(0.99997866,0.00653371,-0.00653371,0.99997866,-41.526099,-71.345411)"
      style="display:inline"
      id="layer3">
     <text
        transform="matrix(0.9949867,-0.1000073,0.1000073,0.9949867,0,0)"
        id="text6709"
-       y="671.94922"
-       x="80.533836"
-       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:76.86286163px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold Oblique';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f0f6fa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.2810477;stroke-opacity:1;"
+       y="653.1615"
+       x="82.7071"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:76.86286163px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold Oblique';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f0f6fa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.2810477;stroke-opacity:1"
        xml:space="preserve"
        sodipodi:linespacing="125%"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:256.20956421px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';fill:#f0f6fa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.2810477;stroke-opacity:1;"
-         y="671.94922"
-         x="80.533836"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:256.20956421px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';fill:#f0f6fa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.2810477;stroke-opacity:1"
+         y="653.1615"
+         x="82.7071"
          id="tspan6711">MV</tspan></text>
   </g>
 </svg>
